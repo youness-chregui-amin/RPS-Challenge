@@ -1,6 +1,6 @@
 # 🎮 RPS-Challenge (Rock Paper Scissors Game)
 
-A simple *Rock-Paper-Scissors* console game built in *C++, created by **Younes Chergui Amin* as part of the *C++ Problem Solving Course by Dr. Mohammed Abu-Hadhoud*.
+A simple *Rock-Paper-Scissors* console game built in *C++, created by **me* as part of the *C++ Problem Solving Course by Dr. Mohammed Abu-Hadhoud*.
 
 ---
 
