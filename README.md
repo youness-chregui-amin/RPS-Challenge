@@ -1,10 +1,10 @@
-# 🎮 RPS-Challenge (Rock Paper Scissors Game)
+#  RPS-Challenge (Rock Paper Scissors Game)
 
 A simple *Rock-Paper-Scissors* console game built in *C++, created by **me* as part of the *C++ Problem Solving Course by Dr. Mohammed Abu-Hadhoud*.
 
 ---
 
-## 🧠 Description
+## Description
 
 This is a classic *Rock-Paper-Scissors* game where you play against the computer.  
 You can choose how many rounds to play, and the program keeps track of the score  
@@ -17,8 +17,8 @@ as a practical exercise to improve programming logic, loops, enums, and struct u
 
 ## ⚙ Features
 
-- 🎮 Multiple rounds  
-- 🧍‍♂ Player vs Computer  
-- 🌈 Colored final results  
-- 🔁 Option to replay the game  
-- 🧹 Clean and simple console interface
+-  Multiple rounds  
+-  Player vs Computer  
+-  Colored final results  
+-  Option to replay the game  
+-  Clean and simple console interface
